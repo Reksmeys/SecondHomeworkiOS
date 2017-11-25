@@ -16,7 +16,7 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         
         outPutTextField.text = "Welcome \(myOutPut), your account have been created"
-        outPutTextField.textColor = UIColor.green
+        outPutTextField.textColor = UIColor.blue
         outPutTextField.font = UIFont.boldSystemFont(ofSize: 35.0)
 
     }
